@@ -1,3 +1,6 @@
+> [!CAUTION]
+> I wanted Helvetica, smaller text, and a small boxi that says "Local". That's all. 
+
 # Colors for ChatGPT (by marusin) — 1.0.1 リリース準備
 
 ## 1.0.1の変更と確認状況（2026-10-28）
